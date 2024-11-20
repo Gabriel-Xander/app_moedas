@@ -11,7 +11,7 @@ class ConversorMoedasApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Conversor de Moedas',
+      title: 'Conversor de Moeda',
       theme: ThemeData(
         primarySwatch: Colors.teal,
       ),
